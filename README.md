@@ -6,7 +6,7 @@
 
 Fundador de **[Wolftech](https://www.wolftech.cl)**, estudio de desarrollo web y software a medida para pymes y empresas en Chile.
 
-Todo lo que ves en **wolftech.cl** lo hice yo: la marca, el logo, el manual de identidad, el diseño del sitio, el código y los sistemas que entregamos a clientes. Por eso es mi portafolio.
+Todo lo que ves en **wolftech.cl** lo hice yo: la marca, el diseño del sitio, el código y los sistemas que entregamos a clientes, apoyándome en la opinión de los diseñadores con los que trabajo. Por eso es mi portafolio.
 
 <p>
   <a href="https://www.wolftech.cl"><img src="https://img.shields.io/badge/Portafolio-wolftech.cl-00A6A4?style=for-the-badge&labelColor=111111" alt="Portafolio wolftech.cl"></a>
@@ -18,7 +18,7 @@ Todo lo que ves en **wolftech.cl** lo hice yo: la marca, el logo, el manual de i
 
 | Área | Detalle |
 | --- | --- |
-| **Marca e identidad** | Logo, isotipo, tipografías, paleta, manual de marca, papelería, tarjetas y kit para redes. |
+| **Marca e identidad** | Con mi equipo de diseño: logo, isotipo, tipografías, paleta, manual de marca, papelería, tarjetas y kit para redes. |
 | **Diseño web** | Sitios corporativos y landing pages orientadas a conversión, con SEO técnico desde el inicio. |
 | **Desarrollo web** | Sitios rápidos en Astro y React, con Lighthouse 95+ como estándar. |
 | **Software a medida** | Cotizaciones, agendamiento, inventario, CRM y portales de clientes. |
@@ -31,7 +31,7 @@ Todo lo que ves en **wolftech.cl** lo hice yo: la marca, el logo, el manual de i
   <img src="assets/wolftech-cl.png" alt="Sitio web wolftech.cl" width="100%">
 </a>
 
-**[wolftech.cl](https://www.wolftech.cl)**: marca, diseño y desarrollo del sitio completo (Astro, React, Tailwind CSS, Vercel).
+**[wolftech.cl](https://www.wolftech.cl)**: marca, diseño y desarrollo del sitio completo, considerando la opinión de diseñadores (Astro, React, Tailwind CSS, Vercel).
 
 ### Entregados
 
